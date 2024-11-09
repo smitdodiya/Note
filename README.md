@@ -1,2 +1,1 @@
-# Note
-nothing
+notes for js
